@@ -1,9 +1,9 @@
 {
-  "chain_length": 56,
-  "date": "2026-11-07",
-  "files_count": 598,
-  "generated_at": "2026-11-07 07:48:38",
-  "prev": "95cc29346a4755ba72b8b0bd106dd8d8dc2cd3044018940e8622cd3f255deb23",
-  "root": "1ef27544f5949cb05672da1fe3a28c709779ed7a2e952c7544c4e033946f1859",
+  "chain_length": 60,
+  "date": "2026-11-11",
+  "files_count": 628,
+  "generated_at": "2026-11-11 08:04:40",
+  "prev": "c46072e0e2296a8328a215f45974ac981b71729316d160681a91567c2843cde4",
+  "root": "4203558a9ede20e578b224ef8a079da90d3bd1f1adca3ec2d8be59fb9b2b57a7",
   "schema": "narrscope-anchor/v1"
 }
